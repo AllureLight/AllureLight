@@ -8,6 +8,12 @@ Tento realizar alguns projetos e quero evoluir ao longo do tempo
 
 Estou tentando organizar tudo ainda...
 
+Fatos engraçados
+
+- Quero ter gatos
+- Eu não gosto de café e chá
+- Bleach é meu anime favorito
+
 <!--
 **AllureLight/AllureLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
