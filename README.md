@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hey there :)
 
 Me chamo Guilherme, sou iniciante na área de programação
 
 Curso atualmente Ciência da Computação na Ufes
 
-
+Tento realizar alguns projetos e quero evoluir ao longo do tempo
 
 Estou tentando organizar tudo ainda...
 
