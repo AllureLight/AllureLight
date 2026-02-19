@@ -8,8 +8,7 @@ Tento realizar alguns projetos e quero evoluir ao longo do tempo
 
 Estou tentando organizar tudo ainda...
 
-Fatos engraçados
-
+**Fatos engraçados:**
 - Quero ter gatos
 - Eu não gosto de café e chá
 - Bleach é meu anime favorito
