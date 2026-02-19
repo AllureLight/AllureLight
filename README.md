@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Me chamo Guilherme, sou iniciante na área de programação
+
+Curso atualmente Ciência da Computação na Ufes
+
+
+
+Estou tentando organizar tudo ainda...
+
 <!--
 **AllureLight/AllureLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
